@@ -4,7 +4,7 @@ License: [Purchase your license from here to use this project for commercial use
 
 ![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
-| 🟢 Full Video | 🔴 Demo |
+
 |------------|------|
 | [Full Video](https://youtu.be/6omuUOZcWL0) | [Demo](https://webprodigies.com/demo) |
 
