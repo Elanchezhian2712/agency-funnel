@@ -4,8 +4,6 @@
 ![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
 
-|------------|------|
-| [Full Video](https://youtu.be/6omuUOZcWL0) | [Demo](https://webprodigies.com/demo) |
 
 ## ✨ Private Web design / development FREELANCE Community 
 Join the Community if you want to learn how to make money this year with websites! 
